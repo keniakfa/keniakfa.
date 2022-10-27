@@ -1,4 +1,4 @@
-## Hi! I am Kênia Araújo
+Hi, Welcome to my GitHub! I am Kênia Araújo
 
 <div align="center">
   <a href="https://github.com/keniakfa">
